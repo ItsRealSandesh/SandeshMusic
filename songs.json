@@ -2,8 +2,17 @@
   {
     "id": "1",
     "title": "75 Ka Chini 75 Ka Paua",
-    "artist": "Pravesh Premi Bro",
+    "artist": "Pravesh Premi",
     "album": "",
-    "audioUrl": "https://raw.githubusercontent.com/ItsRealSandesh/SandeshMusic/main/music/song1.mp3",
-    "coverUrl": "https://raw.githubusercontent.com/ItsRealSandesh/SandeshMusic/main/covers/song1.png"
+    "audioUrl": "https://song.codewithsandesh.com/music/song1.mp3",
+    "coverUrl": "https://song.codewithsandesh.com/covers/song01.png"
+  },
+  {
+    "id": "2",
+    "title": "Savage",
+    "artist": "Balendra Shah",
+    "album": "",
+    "audioUrl": "https://song.codewithsandesh.com/music/song2.mp3",
+    "coverUrl": "https://song.codewithsandesh.com/covers/song02.png"
   }
+]
